@@ -18,4 +18,4 @@ ng serve
 - Eliminación de Usuario: Eliminar un usuario tras la confirmación.
 - En el código se encuentra el servicio de Libros con las restricciones de acuerdo al diagrama de clases.
 
-Link de video demostración del prototipo.
+Link de video demostración del prototipo. => https://www.loom.com/share/ee0c5e7f63cd4f2fb5dddae327d1c4a5 
